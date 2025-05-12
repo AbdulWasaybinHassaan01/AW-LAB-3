@@ -16,3 +16,9 @@ int x = 5;
 int y = 6;
 int subtract = x - y;
 cout << subtract;
+
+Multiplication
+int x = 5;
+int y = 6;
+int multiply = x * y;
+cout << multiply;
